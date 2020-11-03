@@ -1,0 +1,11 @@
+D:\Courses\New folder (2)\DMC\DMC\bin\Debug\DMC.exe.config
+D:\Courses\New folder (2)\DMC\DMC\bin\Debug\DMC.exe
+D:\Courses\New folder (2)\DMC\DMC\bin\Debug\DMC.pdb
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.csprojAssemblyReference.cache
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.Form1.resources
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.ManageStudents.resources
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.Properties.Resources.resources
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.csproj.GenerateResource.cache
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.exe
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.pdb
+D:\Courses\New folder (2)\DMC\DMC\obj\Debug\DMC.AddStudents.resources
